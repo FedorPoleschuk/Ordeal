@@ -9,7 +9,6 @@ def sort(A, B):
                 B[i + 1] += 1
         n += 1
 
-
 def sort2(A, B):
     n = 1
     while n < len(A):
